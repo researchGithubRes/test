@@ -9,7 +9,7 @@ $ImageFileType = [
      'png'
     ];
 
-   echo "testing in git hub"
+   echo "testing in git hub";
         
    // added by dipin
     
