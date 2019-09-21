@@ -14,6 +14,7 @@ $ImageFileType = [
    echo "git synchronising";
    echo "git synchronised";
    echo"hello";
+   echo "dipin hoyi hooyi";
    // added by dipin
    //checking to push
     
