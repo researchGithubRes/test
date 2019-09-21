@@ -12,6 +12,7 @@ $ImageFileType = [
    echo "testing in git hub";
    echo "pushing to git hub.....";     
    echo "git synchronising";
+   echo "git synchronised";
    // added by dipin
    //checking to push
     
